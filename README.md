@@ -1,4 +1,4 @@
-# Exploring-tests
+# Exploratory-tests
 
 Here I post effects of exploratory testing of random websites.
 
